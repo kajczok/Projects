@@ -1,0 +1,1 @@
+( Autor projektu : Jakub Kapuscinski Kajetan Jarocki )
